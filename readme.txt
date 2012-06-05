@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: LorenW
 Donate link: 
-Tags: page template, template redirect, page, inherit parent template, parent page template
+Tags: page template, template redirect, page, inherit parent template, parent page template, persistent template
 Requires at least: 2.8
 Tested up to: 3.3.2
 Stable tag: 0.1
